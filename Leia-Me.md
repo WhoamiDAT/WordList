@@ -5,7 +5,9 @@ Para usar basta extrair o arquivo zip, e usar os seguintes comandos:
 (Caso não tenha o Python instalado, apt-get install python -y)
 
 cd WordList-main
+
 cd WordList-main
+
 python Wordlist.py
 
 Wordlist somente em texto (Wordlisttxt.txt)
