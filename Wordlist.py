@@ -4,15 +4,15 @@ menu = 0
 
 while menu !=4:
     print('==' *18)
-    print('𝑇𝐼𝑂 𝐷𝐴 𝐸𝑅𝑉𝐴 𝑦 𝑊𝐻𝑂𝐴𝑀𝐼')
-    print('Seja Bem Vindo a Wordlist Generator.')
+    print('TIO DA ERVA 𝑦 WHOAMI')
+    print('Seja Bem Vindo a Wordlist Basic Generator.')
     print('[ 1 ] Apenas Textos')
     print('[ 2 ] Apenas Números')
     print('[ 3 ] Números e Textos')
     print('[ 4 ] Sair do Programa')
     print('==' *18)
     
-    menu = int(input('Escolha um Número: '))
+    menu = int(input('Escolha um Opção: '))
 
     if menu == 1:
         quant = input('Quantidade de senhas: ')
